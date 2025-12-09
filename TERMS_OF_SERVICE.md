@@ -1,6 +1,6 @@
 # Terms of Service for The Slack AI Outreach Agent
 
-**Last updated:** [Date]
+**Last updated:** 12/2025
 
 ## Acceptance of Terms
 
@@ -218,4 +218,5 @@ By using The Slack AI Outreach Agent Chrome Extension, you acknowledge that you 
 ---
 
 **Note:** This Extension operates as a productivity tool that facilitates your own work within your Slack account. All operations are performed through your authenticated Slack session, and the Extension acts on your behalf to automate tasks you would otherwise perform manually. The Extension is designed to comply with Slack's Terms of Service and policies, and you are responsible for ensuring your use complies with all applicable laws and policies.
+
 
